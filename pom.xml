@@ -27,6 +27,29 @@
         </dependency>
     </dependencies>
 
+    <name>FileMonitor</name>
+    <description>Monitoring of new and deleted files in the directory</description>
+    <url>https://github.com/fxboy/Weboys-FileMonitor.git</url>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>FanXingxing</name>
+            <email>fanxingitn@outlook.com</email>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>https://github.com/fxboy/Weboys-FileMonitor.git</connection>
+        <developerConnection>https://github.com/fxboy/Weboys-FileMonitor.git</developerConnection>
+        <url>https://github.com/fxboy/Weboys-FileMonitor.git</url>
+    </scm>
+
 
 
 </project>
